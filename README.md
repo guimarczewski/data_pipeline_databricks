@@ -1,4 +1,4 @@
-# data_pipeline_databricks
+# Data pipelines with delta live tables on Databricks
 
 ## Links Úteis
 - https://www.databricks.com/product/delta-live-tables

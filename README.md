@@ -22,6 +22,10 @@ Processamento dos dados em batch.
 
 [![Batch](https://github.com/guimarczewski/data_pipeline_databricks/raw/main/images/complete_pipeline.PNG)]()
 
+## Arquivos
+
+O repositório possui dois diretórios, "dbc_files" e "notebooks", contendo os Databricks notebooks e os notebooks .ipynb, respectivamente. 
+
 ## Links
 - https://www.youtube.com/watch?v=YuFG--utxaA - Live "Construção de um Pipeline de Dados no Databricks" do canal "Luan Moreno | Engenharia de Dados"
 - https://www.databricks.com/product/delta-live-tables
